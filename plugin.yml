@@ -1,0 +1,11 @@
+---
+name: LuckyBlock
+author: BlackTeam
+main: BlackTeam\LuckyBlock\Main
+version: 1.0.0
+api: [3.2.0]
+softdepend:
+- EconomyAPI
+- PiggyCustomEnchants
+description: Un plugin Lucky Block de BlackTeam
+...
